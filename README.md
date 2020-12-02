@@ -8,7 +8,7 @@
 <h1 align = "center"> Mi nombre es Abel Abbasi </h1>
 <h3 align = "left"> Una apasionado junior de la  programacion 💻  </h3>
 
-[![Linkedin: ElsaToribio](https://img.shields.io/badge/-elsatoribio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelabbasi/)](www.linkedin.com/in/abelabbasi)
+[![Linkedin: ElsaToribio](https://img.shields.io/badge/-Abel Abbasi -blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abelabbasi/)](www.linkedin.com/in/abelabbasi)
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </br>
 </br>
