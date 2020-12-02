@@ -6,7 +6,7 @@
 <img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
 <h1 align = "center"> Mi nombre es Abel Abbasi </h1>
-<h3 align = "left"> Una apasionado junior de la  programacion 💻  </h3>
+<h3 align = "left"> Un apasionado junior de la  programacion 💻  </h3>
 
 </br>
 <hr>
