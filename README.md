@@ -12,12 +12,12 @@
 <hr>
 <h2 align = "left"> Sobre mí </h2>
 
-- 👩🏻‍🎓 Aprendiendo ** Typescript y Angular, entre otras muchas cosas **
+- 👩🏻‍🎓 Aprendiendo ** Typescript y React Native, entre otras muchas cosas **
 
 - 🤝 Busco nuevos proyectos  (*****¿Quieres contratarme?*****)
 
 
-- 💬 Sobre mí **    que decir !!!____________         Mejor conóceme y opina 😉 **
+
 
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api?username=benemox&show_icons=true&theme=buefy" alt="elsath" /></p>
