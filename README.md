@@ -12,7 +12,7 @@
 <hr>
 <h2 align = "left"> Sobre mí </h2>
 
-- 👩🏻‍🎓 Aprendiendo ** Typescript y React Native, entre otras muchas cosas **
+- 👩🏻‍🎓 Aprendiendo ** PHP y Simfony, entre otras muchas cosas **
 
 - 🤝 Busco nuevos proyectos  (*****¿Quieres contratarme?*****)
 
