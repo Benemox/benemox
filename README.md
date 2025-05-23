@@ -1,51 +1,41 @@
+Welcome to my humble GitHub
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230"> <h1 align = "center"> My name is Abel Abbasi </h1> <h3 align = "left"> A passionate software developer 💻 </h3> </br> <hr> <h2 align = "left"> About Me </h2>
+🚀 About Me
+Backend developer specialized in Symfony, with strong experience in Hexagonal Architecture, Microservices, and Dockerization. Broad knowledge in QA, technical documentation, and ISO compliance, particularly in public administration and large-scale enterprise projects.
 
+🛠️ Technical Skills
+Backend: PHP 8.2, Symfony, API Platform, Clean Code
 
-### Bienvenidos a mi humilde github 
+Databases: PostgreSQL, Redis, ElasticSearch, Druid, AS400
 
+Infrastructure: Docker, AWS, Azure, RabbitMQ, Messaging Queues
 
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+Testing & QA: PHPUnit, Behat, large-scale testing strategies
 
-<h1 align = "center"> Mi nombre es Abel Abbasi </h1>
-<h3 align = "left"> Un apasionado de la  programacion 💻  </h3>
+Documentation & Compliance: ISO 27001, ITIL, technical and regulatory documentation
 
-</br>
-<hr>
-<h2 align = "left"> Sobre mí </h2>
+Methodologies: Domain-Driven Design (DDD), Hexagonal Architecture, CI/CD
 
-## 🚀 Sobre Mí  
-Desarrollador backend especializado en **Symfony**, con experiencia en **arquitectura hexagonal, microservicios y dockerización**. Amplio conocimiento en **QA, documentación técnica y cumplimiento de normativas ISO** para administración pública y grandes proyectos empresariales.  
+📌 Key Projects
+1️⃣ Public Administration Management Platform
+Developed a platform for user administration, reporting, and cost analysis
 
-## 🛠️ Habilidades Técnicas  
-- **Backend:** PHP 8.2, Symfony, API Platform, Clean Code  
-- **Bases de Datos:** PostgreSQL, Redis, ElasticSearch, Druid, AS400  
-- **Infraestructura:** Docker, AWS, Azure, RabbitMQ, Colas de Mensajería  
-- **Testing & QA:** PHPUnit, Behat, estrategias de testeo en gran escala  
-- **Documentación & Compliance:** ISO 27001, ITIL, documentación técnica y regulatoria  
-- **Metodologías:** Domain-Driven Design (DDD), Arquitectura Hexagonal, CI/CD  
+Integrated PostgreSQL, Redis, and ElasticSearch to optimize data processing
 
-## 📌 Experiencia Destacada  
-### **1️⃣ Plataforma de Gestión Pública**  
-- Desarrollo de plataforma para administración de usuarios, reportes y análisis de costos.  
-- Integración con **PostgreSQL, Redis y ElasticSearch** para optimización de datos.  
-- Implementación de **QA estratégico y pruebas automatizadas** para certificaciones ISO.  
+Implemented strategic QA and automated testing to meet ISO certification requirements
 
-### **2️⃣ Middleware de Facturación**  
-- Integración de múltiples APIs de terceros con **AS400, PostgreSQL y Redis**.  
-- Diseño de **documentación técnica y operativa** para regulaciones de la administración pública.  
-- Arquitectura basada en **microservicios y contenedores Docker**.  
+2️⃣ Billing Middleware
+Integrated various third-party APIs with AS400, PostgreSQL, and Redis
 
-### **3️⃣ Plataforma de Transacciones Monetarias**  
-- Desarrollo de infraestructura con **ElasticSearch y Azure Messaging Queues** para procesamiento en tiempo real.  
-- Diseño de pruebas automatizadas con **Behat y PHPUnit** para garantizar fiabilidad.  
-- Implementación de estrategias de **caching y alta disponibilidad**.  
+Authored technical and operational documentation to comply with public sector regulations
 
+Designed a microservices architecture using Docker containers
 
+3️⃣ Monetary Transactions Platform
+Built infrastructure using ElasticSearch and Azure Messaging Queues for real-time transaction processing
 
+Developed automated tests using Behat and PHPUnit to ensure reliability
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=benemox&show_icons=true&theme=buefy" alt="elsath" /></p>
+Implemented caching strategies and high availability mechanisms
 
-<h4 align="left">Visitantes... :eyes:</h4>
-<p align="left"><img src="https://profile-counter.glitch.me/{benemox}/count.svg" alt="elsath" /></p>
-
-</br>
-<hr>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=benemox&show_icons=true&theme=buefy" alt="benemox" /></p> <h4 align="left">Visitors... :eyes:</h4> <p align="left"><img src="https://profile-counter.glitch.me/{benemox}/count.svg" alt="benemox" /></p> </br> <hr>
