@@ -44,4 +44,4 @@ Developed automated tests using Behat and PHPUnit to ensure reliability
 
 Implemented caching strategies and high availability mechanisms
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api?username=benemox&show_icons=true&theme=buefy" alt="benemox" /></p> <h4 align="left">Visitors... :eyes:</h4> <p align="left"><img src="https://profile-counter.glitch.me/{benemox}/count.svg" alt="benemox" /></p> </br> <hr>
+
