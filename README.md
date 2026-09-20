@@ -15,19 +15,6 @@
 
 ---
 
-## 🤖 Proyecto destacado
-
-### [Agent Team Lab](https://github.com/Benemox/agent-team-lab)
-
-Plataforma reutilizable de agentes expertos interconectados para analizar proyectos de software. Coordina perfiles de **Product Manager, Arquitectura, Programación, QA y Seguridad**, compartiendo el resultado de cada etapa hasta generar una decisión técnica revisada.
-
-Permite integrarlo en otros proyectos mediante **MCP, API REST o CLI**, con soporte para **OpenAI/Codex, Hermes Agent y endpoints compatibles con OpenAI**.
-
-**Stack:** Python · FastAPI · MCP · OpenAI Responses API · Hermes · Docker · GitHub Actions  
-**Enfoque:** arquitectura desacoplada por proveedores, skills configurables y análisis seguro de repositorios en modo de solo lectura.
-
----
-
 ### Sobre mí
 
 Desarrollador backend con más de **5 años de experiencia** construyendo y evolucionando aplicaciones en producción. Me especializo en **PHP, Symfony y Laravel**, con especial atención a **DDD, arquitectura hexagonal, Clean Code y sistemas mantenibles**.
