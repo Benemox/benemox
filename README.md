@@ -47,6 +47,15 @@ Marketplace logístico para obras, maquinaria pesada y transporte especializado.
 **Stack:** Symfony · Arquitectura hexagonal · DDD · PostgreSQL · RabbitMQ · Stripe · Docker · React Native/Expo · Vue  
 **Estado:** producto propio en desarrollo activo con plataforma web pública.
 
+#### 🐝 [avispasIA](https://avispas-ia.vercel.app/)
+
+Prototipo de visión artificial para observar la entrada de colmenas, distinguir avispas de abejas y registrar detecciones con una política de seguridad que bloquea cualquier acción cuando aparece una abeja o existe incertidumbre.
+
+Incluye un catálogo reproducible de **5.000 imágenes candidatas CC0**, trazabilidad de licencias, pipeline de entrenamiento, exportación ONNX y una demostración web interactiva del concepto.
+
+**Stack:** Python · OpenCV · YOLOv5 · ONNX · iNaturalist · GitHub · Vercel  
+**Estado:** prototipo de observación en desarrollo; pendiente de anotación completa y validación con vídeo real de colmenas.
+
 #### 🧱 [Laravel Clean Architecture, DDD & CQRS](https://github.com/Benemox/laravel-clean-architecture-ddd-cqrs-main)
 
 Backend que demuestra separación estricta entre dominio, aplicación, infraestructura y presentación. Implementa agregados, value objects, comandos, consultas, handlers y controladores de una sola acción.
