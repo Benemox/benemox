@@ -1,47 +1,53 @@
-Welcome to my humble GitHub
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230"> <h1 align = "center"> My name is Abel Abbasi </h1> <h3 align = "left"> A passionate software developer 💻 </h3> </br> <hr> <h2 align = "left"> About Me </h2>
-🚀 About Me
+<h1 align="center">Hola, soy Abel Abbasi 👋</h1>
 
-Backend developer specialized in Symfony, with strong experience in Hexagonal Architecture, Microservices, and Dockerization. 
-Broad knowledge in QA, technical documentation, particularly in public administration and large-scale enterprise projects.
+<p align="center">
+  <strong>Backend Developer · PHP · Symfony · Laravel</strong><br>
+  Madrid, España
+</p>
 
-🛠️ Technical Skills
+<p align="center">
+  <a href="https://abe-cv-interactivo.vercel.app/"><strong>Ver CV interactivo</strong></a>
+  ·
+  <a href="https://www.linkedin.com/in/abelabbasi">LinkedIn</a>
+  ·
+  <a href="mailto:abelabbasi@hotmail.com">Email</a>
+</p>
 
-Backend: PHP , Symfony, API Platform, Clean Code
-Backend: Node, Express
+---
 
-Databases: PostgreSQL, Redis, ElasticSearch, Druid, AS400
+### Sobre mí
 
-Infrastructure: Docker, AWS, Azure, RabbitMQ, Messaging Queues
+Desarrollador backend con más de **4 años de experiencia** construyendo y evolucionando aplicaciones en producción. Me especializo en **PHP, Symfony y Laravel**, con especial atención a **DDD, arquitectura hexagonal, Clean Code y sistemas mantenibles**.
 
-Testing & QA: PHPUnit, Behat, large-scale testing strategies
+Trabajo habitualmente con APIs, microservicios, mensajería asíncrona, integraciones con terceros y procesamiento de datos. Me gusta situar el dominio en el centro y separar la lógica de negocio de los detalles de infraestructura.
 
-Methodologies: Domain-Driven Design (DDD), Hexagonal Architecture, CI/CD
+### Experiencia reciente
 
-📌 Key Projects
+- **Nairoo — Backend Developer** · sep. 2025 – actualidad  
+  Desarrollo y evolución del core backend de un Channel Manager con PHP 8.4, Laravel, PostgreSQL, Redis y GraphQL. Diseño de casos de uso, entidades, puertos y adaptadores; refactorización de código legacy e integraciones.
 
-1️⃣ Public Administration Management Platform
+- **Up Spain — Backend Developer** · feb. 2023 – oct. 2025  
+  Desarrollo de APIs y microservicios dockerizados con PHP 8.2 y Symfony. Arquitectura hexagonal, DDD, PostgreSQL, Redis, Elasticsearch, mensajería asíncrona, Azure e integraciones con AS400.
 
-Developed a platform for user administration, reporting, and cost analysis
+- **SunMedia — Backend Developer** · ago. 2021 – feb. 2023  
+  Plataformas de gestión, reporting y análisis de costes con PHP, Symfony, PostgreSQL, Redis, Druid y AWS, con foco en rendimiento, escalabilidad y colas asíncronas.
 
-Integrated PostgreSQL, Redis, and ElasticSearch to optimize data processing
+### Stack principal
 
-Implemented strategic QA and automated testing to meet ISO certification requirements
+`PHP 8.x` · `Symfony` · `Laravel` · `PostgreSQL` · `Redis` · `Elasticsearch` · `Docker` · `RabbitMQ` · `Azure` · `AWS`
 
-2️⃣ Billing Middleware
+`DDD` · `Arquitectura hexagonal` · `CQRS` · `Microservicios` · `APIs REST` · `GraphQL` · `PHPUnit` · `Behat` · `CI/CD`
 
-Integrated various third-party APIs with AS400, PostgreSQL, and Redis
+### Proyectos destacados
 
-Authored technical and operational documentation to comply with public sector regulations
+- [Symfony Hexagonal Boilerplate](https://github.com/Benemox/symfony-hexagonal-boilerplate) — base para aplicaciones Symfony organizadas con arquitectura hexagonal.
+- [CV interactivo](https://abe-cv-interactivo.vercel.app/) — portfolio profesional desarrollado con Next.js.
+- [Abe_cv_interactivo](https://github.com/Benemox/Abe_cv_interactivo) — código fuente del portfolio.
 
-Designed a microservices architecture using Docker containers
+---
 
-3️⃣ Monetary Transactions Platform
-
-Built infrastructure using ElasticSearch and Azure Messaging Queues for real-time transaction processing
-
-Developed automated tests using Behat and PHPUnit to ensure reliability
-
-Implemented caching strategies and high availability mechanisms
-
-
+<p align="center">
+  <a href="https://abe-cv-interactivo.vercel.app/">
+    <strong>Explorar mi experiencia, arquitectura y stack →</strong>
+  </a>
+</p>
