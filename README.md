@@ -17,7 +17,7 @@
 
 ### Sobre mí
 
-Desarrollador backend con más de **4 años de experiencia** construyendo y evolucionando aplicaciones en producción. Me especializo en **PHP, Symfony y Laravel**, con especial atención a **DDD, arquitectura hexagonal, Clean Code y sistemas mantenibles**.
+Desarrollador backend con más de **5 años de experiencia** construyendo y evolucionando aplicaciones en producción. Me especializo en **PHP, Symfony y Laravel**, con especial atención a **DDD, arquitectura hexagonal, Clean Code y sistemas mantenibles**.
 
 Trabajo habitualmente con APIs, microservicios, mensajería asíncrona, integraciones con terceros y procesamiento de datos. Me gusta situar el dominio en el centro y separar la lógica de negocio de los detalles de infraestructura.
 
