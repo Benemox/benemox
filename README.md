@@ -78,6 +78,14 @@ Base reutilizable para aplicaciones Symfony con arquitectura hexagonal y DDD, en
 
 **Stack:** PHP · Symfony · Vue · Docker · PHPUnit · PHPCS · Nelmio/OpenAPI
 
+#### 🤖 [Agent Team Lab](https://github.com/Benemox/agent-team-lab)
+
+Plataforma reutilizable para incorporar un equipo de agentes especializados a proyectos de software. Conecta perfiles de Product Manager, Arquitectura, Programación, QA y Seguridad en un flujo configurable donde cada resultado alimenta las siguientes revisiones.
+
+Se puede consumir mediante MCP, API REST o CLI y admite OpenAI/Codex, Hermes Agent y proveedores compatibles con la API de OpenAI.
+
+**Stack:** Python · FastAPI · MCP · OpenAI Responses API · Hermes · Docker · GitHub Actions
+
 ---
 
 <p align="center">
