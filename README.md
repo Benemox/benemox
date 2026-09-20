@@ -56,6 +56,16 @@ Incluye un catálogo reproducible de **5.000 imágenes candidatas CC0**, trazabi
 **Stack:** Python · OpenCV · YOLOv5 · ONNX · iNaturalist · GitHub · Vercel  
 **Estado:** prototipo de observación en desarrollo; pendiente de anotación completa y validación con vídeo real de colmenas.
 
+#### 🏠 [Casa en orden](https://registro-de-obra.vercel.app/)
+
+Aplicación web para organizar el expediente documental de una vivienda de autopromoción en España, desde el análisis y la compra del terreno hasta la primera ocupación. Incluye **8 etapas y 34 trámites**, seguimiento de estados y responsables, documentos asociados, fechas, impuestos y gastos.
+
+La guía reúne orientación para las **17 comunidades autónomas** con enlaces a fuentes oficiales. La demo guarda el proyecto y los archivos en IndexedDB y permite exportar y restaurar el expediente completo.
+
+**Stack:** JavaScript modular · IndexedDB · HTML/CSS · GitHub · Vercel
+
+**Estado:** primera versión funcional con portada pública y registro interactivo.
+
 #### 🧱 [Laravel Clean Architecture, DDD & CQRS](https://github.com/Benemox/laravel-clean-architecture-ddd-cqrs-main)
 
 Backend que demuestra separación estricta entre dominio, aplicación, infraestructura y presentación. Implementa agregados, value objects, comandos, consultas, handlers y controladores de una sola acción.
