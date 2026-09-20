@@ -45,7 +45,7 @@ Trabajo habitualmente con APIs, microservicios, mensajería asíncrona, integrac
 Marketplace logístico para obras, maquinaria pesada y transporte especializado. Incluye gestión multiempresa y multirol, solicitudes de servicio, disponibilidad, asignaciones, trazabilidad, gremios, pagos y operativa móvil para conductores.
 
 **Stack:** Symfony · Arquitectura hexagonal · DDD · PostgreSQL · RabbitMQ · Stripe · Docker · React Native/Expo · Vue  
-**Estado:** producto propio en desarrollo activo; repositorio privado.
+**Estado:** producto propio en desarrollo activo con plataforma web pública.
 
 #### 🧱 [Laravel Clean Architecture, DDD & CQRS](https://github.com/Benemox/laravel-clean-architecture-ddd-cqrs-main)
 
