@@ -38,11 +38,32 @@ Trabajo habitualmente con APIs, microservicios, mensajería asíncrona, integrac
 
 `DDD` · `Arquitectura hexagonal` · `CQRS` · `Microservicios` · `APIs REST` · `GraphQL` · `PHPUnit` · `Behat` · `CI/CD`
 
-### Proyectos destacados
+### Proyectos principales
 
-- [Symfony Hexagonal Boilerplate](https://github.com/Benemox/symfony-hexagonal-boilerplate) — base para aplicaciones Symfony organizadas con arquitectura hexagonal.
-- [CV interactivo](https://abe-cv-interactivo.vercel.app/) — portfolio profesional desarrollado con Next.js.
-- [Abe_cv_interactivo](https://github.com/Benemox/Abe_cv_interactivo) — código fuente del portfolio.
+#### 🚧 [Gonabba](https://gonabba.vercel.app/)
+
+Marketplace logístico para obras, maquinaria pesada y transporte especializado. Incluye gestión multiempresa y multirol, solicitudes de servicio, disponibilidad, asignaciones, trazabilidad, gremios, pagos y operativa móvil para conductores.
+
+**Stack:** Symfony · Arquitectura hexagonal · DDD · PostgreSQL · RabbitMQ · Stripe · Docker · React Native/Expo · Vue  
+**Estado:** producto propio en desarrollo activo; repositorio privado.
+
+#### 🧱 [Laravel Clean Architecture, DDD & CQRS](https://github.com/Benemox/laravel-clean-architecture-ddd-cqrs-main)
+
+Backend que demuestra separación estricta entre dominio, aplicación, infraestructura y presentación. Implementa agregados, value objects, comandos, consultas, handlers y controladores de una sola acción.
+
+**Stack:** PHP · Laravel · DDD · CQRS · PostgreSQL · Redis · Docker · PHPUnit
+
+#### 📦 [Inventory Sync API](https://github.com/Benemox/bdo_node_ts)
+
+API para sincronizar inventario entre sistemas mediante SKU, con persistencia PostgreSQL, documentación OpenAPI y pruebas de integración. Es el proyecto que mejor representa mi experiencia backend fuera del ecosistema PHP.
+
+**Stack:** Node.js · TypeScript · Express · Prisma · PostgreSQL · Swagger · Jest · Docker
+
+#### ⚙️ [Symfony Hexagonal Boilerplate](https://github.com/Benemox/symfony-hexagonal-boilerplate)
+
+Base reutilizable para aplicaciones Symfony con arquitectura hexagonal y DDD, entorno Docker, integración con servicios externos, documentación de API y herramientas de calidad.
+
+**Stack:** PHP · Symfony · Vue · Docker · PHPUnit · PHPCS · Nelmio/OpenAPI
 
 ---
 
